@@ -1,3 +1,5 @@
+## For more go to https://rikurainio.dev
+
 ## Short about
 🔭 I’m currently working on https://drafter.lol<br>
 👯 I’m looking to collaborate on any kind of app ideas!<br>
